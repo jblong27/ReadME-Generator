@@ -1,9 +1,9 @@
-# lsdkjfa
+# ReadME-Generator
   ## License
   
   
   ## Description
-  ldskjfa
+  Node app that generates a readme for your project.
   ## Table of Contents
   [Installation](#Installation)
   [Usage](#Usage)
@@ -12,14 +12,14 @@
   [Tests](#Tests)
   [Questions](#Questions)
   ## Installation
-  kladsjfl;a
+  Clone the repo and run the app in node.
   ## Usage
-  jlkadjf;l
+  To generate better readme's for projects
   ## Contributing
   undefined
   ## Tests
-  lakdjfls
+  
   ## Questions 
-  GitHub Profile: [lkdjf](http://github.com/lkdjf)
-  My email is ldsakjf.
+  GitHub Profile: [jblong27](http://github.com/jblong27)
+  My email is n/a.
   
